@@ -1,7 +1,7 @@
 
 # How to fix this issue in linux 
 
-![image error from linux](https://github.com/Adornadowilliam2/videos/blob/main/backend/media/Screenshot%20from%202025-03-01%2014-53-54.png?raw=true)
+![image error from linux](https://github.com/Adornadowilliam2/videos/blob/main/media/errormsg.png?raw=true)
 
 - just type the command but also change the name of your folder direction
 
